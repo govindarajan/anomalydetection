@@ -1,0 +1,4 @@
+*.json
+*.so
+target/
+*.tar.gz
